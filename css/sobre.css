@@ -3,6 +3,9 @@ body {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
 }
+p:first-letter {
+  font-weight: bold;
+}
 
 h1 {
 	padding: 10px;
@@ -37,4 +40,13 @@ figcaption {
 #familia-pelho {
     float: right;
     margin: 0 0 10px 10px;
+}
+h1 + p {
+  text-indent: 0;
+}
+p:first-line {
+  font-variant: small-caps;
+}
+:not(p) + p:first-line {
+  font-variant: small-caps;
 }
