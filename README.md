@@ -8,3 +8,6 @@ Link do curso disponível em: https://www.caelum.com.br/apostila-html-css-javasc
 #Requisitos
 * Wamp - BitNami: https://bitnami.com/stack/wamp
 
+#Início
+* Leia o arquivo Server para executar o servidor Wamp. 
+
