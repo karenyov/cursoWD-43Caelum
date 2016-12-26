@@ -8,7 +8,7 @@ Projeto: Mirror Fashion
 Link do curso disponível em: [Caelum](https://www.caelum.com.br/apostila-html-css-javascript/).
 
 #Requisitos
-* Wamp - BitNami: https://bitnami.com/stack/wamp
+* Wamp - [BitNami](https://bitnami.com/stack/wamp).
 
 #Início
 * Leia o arquivo Server para executar o servidor Wamp. 
